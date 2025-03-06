@@ -6,6 +6,7 @@ import (
 
 func main() {
 
+	//logger.Info("starting banking app")
 	app.Start()
 
 }
